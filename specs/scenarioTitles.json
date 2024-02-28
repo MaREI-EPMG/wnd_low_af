@@ -1,4 +1,8 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "mitigation_cb": "mitigation_cb",
+  "mitigation_cb-lowaf": "mitigation_cb-lowaf",
+  "mitigation_cb-new": "mitigation_cb-new",
+  "mitigation_sectoralcbs": "mitigation_sectoralcbs",
+  "mitigation_sectoralcbs-lowaf": "mitigation_sectoralcbs-lowaf",
+  "mitigation_sectoralcbs-new": "mitigation_sectoralcbs-new"
 }

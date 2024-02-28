@@ -1,0 +1,14 @@
+{
+  "name": "mitigation_cb",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-MTRUCK",
+      "seriesValues": [
+        [
+          2022,
+          1.18725102278405e-08
+        ]
+      ]
+    }
+  ]
+}
